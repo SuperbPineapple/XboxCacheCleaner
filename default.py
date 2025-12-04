@@ -5,8 +5,7 @@ cachePathE = r"E:\CACHE"
 # cachePathX = r"X:"
 # cachePathY = r"Y:"
 # cachePathZ = r"Z:"
-# There's no XYZ parititions on XBMC that I can see.
-# If you can somehow see them, you can uncomment the XYZ partition code.
+# You can uncomment the XYZ caches if you've enabled them.
 
 # for if you play beta halos (you can comment this out if this folder doesn't appear)
 betaHaloCache = r"E:\CACHEGSRV"
